@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="j3d-examples">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/dist/j3d-examples.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
